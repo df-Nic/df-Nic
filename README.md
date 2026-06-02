@@ -2,7 +2,7 @@
   <h1>Hello there 👋 I am Nicholas Cheng</h1>
 </div>
 
-Hello I am Nicholas Cheng, currently a year 2 undergraduate computer science student at National Unniversity of Singapore. I am also persuing a minor in Data Analytics.
+Hello I am Nicholas Cheng, currently a year 3 undergraduate computer science student at National Unniversity of Singapore. I am also persuing a minor in Data Analytics.
 
 I am always open minded in learning and trying out new things. 
 
@@ -24,7 +24,7 @@ You can learn more about me from these other websites:
 <div>
   <div>
     <a href="https://www.linkedin.com/in/nicholas-cheng-">
-      <img alt="Static Badge" src="https://img.shields.io/badge/Linkdin-blue?style=for-the-badge&logo=linkedin">
+      <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
   </div>
   <div>
